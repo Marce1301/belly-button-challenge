@@ -1,7 +1,10 @@
 # Belly-button-challenge
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+## Introduction
+In this assignment, I built an interactive dashboard to explore the Belly Button Biodiversity dataset from the Public Science Lab (http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)), which catalogs the microbes that colonize human navels.
+The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare , and also reveals that  belly buttons are indeed a jungle of microbial diversity, having detected over 2300 species in a sample of 60 navels.
+
+## Challenge overview
 In this challenge I  worked with a `index.html`, `samples.json`, and a static folder that contains the `app.js` with the instructions to use the ´D3´ library to read in  `samples.json` from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json (samples.json). I had to adecuate a little bit the order of the folders because I was strugling wiht a no file found error, so I leave the static folder, the index. html and samples.json in the same folder called data. I faced the error CORS which I solved with the `Live Server` extension.
 
 ## Plotly
@@ -49,6 +52,8 @@ CHALLENGE COMPLETE!!
  ![Guage Chart](Starter_Code/StarterCode/data/static/Images/gauge.png)
 
 ## Final Dashboard 
+![Guage Chart](Starter_Code/StarterCode/data/static/Images/Finaldashboard.png)
+
 
 ## Tools and sources
 
